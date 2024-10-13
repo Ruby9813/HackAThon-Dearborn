@@ -21,6 +21,9 @@ _______________
 _______________
 |      |      |   1
 ______________
+
+
+If you see the raw version of the readme it will help you more. Since the diagram isn't properly demonstrating the board.
 |      |      |   2 
 _______________
 
