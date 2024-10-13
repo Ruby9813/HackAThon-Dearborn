@@ -15,15 +15,14 @@ Same for the columns except it's from left to right.
 The left most one is zero the right most one is two. And one is in the middle. 
 
 Here a little diagram to help you. (^^ 
-
-   0      1      2
-_____________________
-|     |      |      |   0 
-_____________________
-|     |      |      |   1
-_____________________
-|     |      |      |   2 
-_____________________
+0      1      2
+_______________
+|      |      |   0 
+_______________
+|      |      |   1
+______________
+|      |      |   2 
+_______________
 
 NOW GET ON AND PLAY. (^ 0 ^
 
