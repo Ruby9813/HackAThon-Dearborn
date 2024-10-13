@@ -20,13 +20,12 @@ _______________
 |      |      |   0 
 _______________
 |      |      |   1
-______________
-
-
-If you see the raw version of the readme it will help you more. Since the diagram isn't properly demonstrating the board.
+_______________
 |      |      |   2 
 _______________
 
+
+If you see the raw version of the readme it will help you more. Since the diagram isn't properly demonstrating the board.
 NOW GET ON AND PLAY. (^ 0 ^
 
 
